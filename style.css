@@ -124,5 +124,21 @@ body{
         border-radius:  3px;
        outline: none;
     }
+   
+   .weather{
+    height: 13vh;
+    width: 25%;
+   
+    display: flex;
+    flex-direction: column;
+ 
+     align-items: center;
+     border-radius: 6px;
+     padding: 2px;
+     position: absolute;
+    justify-content: space-between ;
+
+
+}
         
 }
